@@ -10,6 +10,10 @@
  
   </br>
   
+### :dancers: Grupo
+- Manoela Ferreira Finotti
+- [Melissa Assis da Silva](https://github.com/melassiss)
+  
 ### :books: Sobre
 Este projeto foi realizado por um grupo de alunas da PUC-SP, para a entrega do projeto final do terceiro semestre de **Ciência de Dados e Inteliência Artificial**.
 
@@ -18,10 +22,6 @@ O tema do semestre era Negócios e, dessa forma, teríamos que criar algo relaci
 Escolhemos criar uma consultoria que buscava entregar análises do grau de satisfação dos clientes dos apartamentos para agências de viagem, que levariam, aos hóspedes, as melhores acomodações.
 
 Além disso, tivemos que integrar as matérias de SQL e Python. Então criamos um banco de dados com informações para administrar os clientes da consultoria e usamos um dataset para prever a satisfação dos clientes, fazendo análises em Python.
-
-### :dancers: Grupo
-- Manoela Ferreira Finotti
-- [Melissa Assis da Silva](https://github.com/melassiss)
 
 ### :bookmark_tabs: Etapas
 - [x] Escolher o Dataset
