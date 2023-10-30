@@ -21,7 +21,7 @@ Além disso, tivemos que integrar as matérias de SQL e Python. Então criamos u
 
 ### :dancers: Grupo
 - Manoela Ferreira Finotti
-- Melissa Assis da SIlva @melassiss
+- [Melissa Assis da Silva](https://github.com/melassiss)
 
 ### :bookmark_tabs: Etapas
 - [x] Escolher o Dataset
