@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=https://github.com/maafinotti/satisfacao_clientes_airbnb/blob/master/img/logo.png" width="150" height="150">
+</p>
+
 <h1 align="center">Análise e Predição da Satisfação de Clientes do Airbnb</h1>
 
 <h3 align="center">:computer: Projeto Final do Terceiro Semestre - PUC-SP :computer: </h3>
