@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/maafinotti/satisfacao_clientes_airbnb/blob/master/img/logo.png" width = '150' high = '150'>
+  <img src="https://github.com/maafinotti/satisfacao_clientes_airbnb/blob/master/img/logo.png" width = '130' high = '130'>
 </p>
 
 <h1 align="center">Análise e Predição da Satisfação de Clientes do Airbnb</h1>
@@ -18,6 +18,10 @@ O tema do semestre era Negócios e, dessa forma, teríamos que criar algo relaci
 Escolhemos criar uma consultoria que buscava entregar análises do grau de satisfação dos clientes dos apartamentos para agências de viagem, que levariam, aos hóspedes, as melhores acomodações.
 
 Além disso, tivemos que integrar as matérias de SQL e Python. Então criamos um banco de dados com informações para administrar os clientes da consultoria e usamos um dataset para prever a satisfação dos clientes, fazendo análises em Python.
+
+### :dancers: Grupo
+- Manoela Ferreira Finotti
+- Melissa Assis da SIlva @melassiss
 
 ### :bookmark_tabs: Etapas
 - [x] Escolher o Dataset
